@@ -1,4 +1,4 @@
-# Package-Delivery-System-WGUC950
+# Package-Delivery-System
 
 This project was the culmination of Data Structures & Algorithms II. It was developed with Python in the Pycharm IDE. This project is a console application that simulates a solution. It employs a Nearest Neighbor Algorithm as the core finding the next closest address from a list until all packages are delivered. 
 
